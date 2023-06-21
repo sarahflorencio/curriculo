@@ -1,0 +1,88 @@
+.banner {
+   background: url('../img/fundo.jpg');
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+ 
+}
+.perfil {
+    border-radius: 50%;
+
+    border: 5px solid whitesmoke;
+    height: 60vh;
+    margin-left: 10%;
+    
+}
+.myName {
+    font-family: 'Dosis', sans-serif;
+    font-size: 4rem;
+    color: #ffffff;
+    font-weight: 600;
+     margin-top: 20%;
+     margin-left: -10%;
+
+}
+@media (min-width: 576px){
+    .banner{
+        background-position: right;
+        height: 60vh;
+    }
+    .perfil{
+        height: 66%;
+
+    }
+    .myName{
+        font-size: 4rem;
+        font-weight: 300;
+      
+    }
+
+}
+@media (min-width: 577px) and (max-width:1200px) {
+.banner{
+    background-position: right;
+    height: 50vh;
+}
+.perfil{
+    height: 150%;
+
+}
+.myName{
+    font-size: 4rem;
+    font-weight: 300;
+}
+}
+@media (min-width: 992px) {}
+@media (min-width: 1200px) {}
+@media (min-width: 1400px) {}
+
+h1{
+    margin-left: -50%;
+    margin-top: 5%;
+}
+
+h3{
+    font-size: 150%;
+    margin-left: -76%;
+}
+h4{
+    font-size: 150%;
+    margin-left: -76%;
+}
+h5{
+    font-size: 150%;
+    margin-left: -79%;
+}
+h6{
+    font-size: 150%;
+    margin-left: -72%;
+}
+h2{
+    font-size: 150%;
+    margin-left: -76%;
+}
+.progress{
+width: 40%;
+height: 25%;
+margin-left: -45%;
+}

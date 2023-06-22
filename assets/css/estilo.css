@@ -18,8 +18,8 @@
     font-size: 4rem;
     color: #ffffff;
     font-weight: 600;
-     margin-top: 20%;
-     margin-left: -10%;
+     margin-top: 25%;
+     margin-left: -5%;
 
 }
 @media (min-width: 576px){
@@ -45,7 +45,6 @@
 }
 .perfil{
     height: 150%;
-
 }
 .myName{
     font-size: 4rem;
@@ -58,7 +57,7 @@
 
 h1{
     margin-left: -50%;
-    margin-top: 5%;
+    margin-top: 10%;
 }
 
 h3{
@@ -85,4 +84,10 @@ h2{
 width: 40%;
 height: 25%;
 margin-left: -45%;
+}
+.historico{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 50%;
+    margin-top: -37%;
+   
 }
